@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="article_title">Android</string>
+    <string name="artical_subtitle">Development Process</string>
+    <string name="artical_text">Can you install Java on Android?\n
+Java is technically not supported on Android, meaning that you canot run JAR files or visit websites with Java content. Luckily there are a few ways around these restrictions, depending on what you want to do. If you want to run a JAR file on your phone, you will need to gain root access and then install an emulator.How can I create a Android app?
+How to Create an Android App With Android Studio
+
+    Step 1: Install Android Studio. ...
+    Step 2: Open a New Project. ...
+    Step 3: Edit the Welcome Message in the Main Activity. ...What is the framework for Android?
+The Android Framework is the entire stack of stuff that makes up the OS. This is the underlying Native libraries that are not directly accessible, the layer above that that you actually interact with and the code that developers write to run on the system. Yo are confused about Libraries vs APIs.
+    Step 4: Add a Button to the Main Activity. ...
+    Step 5: Create a Second Activity. ...
+    Step 6: Write the Buttons "onClick" Method. ...
+    Step 7: Test the Application. ...
+    Step 8: Up, Up, and Away !
+        refer for www.androiddevelopment.com.\n\n
+        What programming language is used for Android Apps?\n
+The official language for Android development is Java. Large parts of Android are written in Java and its APIs are designed to be called primarily from Java. It is possible to .
+        \nHow can I create mobile applications?\n\n
+Creating your own Mobile App with the Infinite Monkeys App Maker is super-easy. The entire site is drag-and-drop. You just pick what you want included your app, and then drag it in. However you define "community" we can help you connect with the people who are important to you.
+        \nWhy Android is based on Java?\n\n
+Because android OS is based on linux kernel which is written mostly in C. OS has to talk to the hardware and almost all drivers are written in C/C++ therefore OS had to be written in this. And applications written in JAVA because simply, it was famous and easier than C++ (the latter is my personal opinion)Can a Java application run on Android?
+You can use JBED. JBED is an .apk Android application which run java games and app on your android Device. JBED is a java android emulator, by using this application we can install .JAR/.JAD/Java/J2ME/MIDP app on android phones. You can do it quite easily as there are many ways to run java apps on android.   </string>
+</resources>
